@@ -1,5 +1,5 @@
 # datascience
-machinelearning
+Machine learning
 
 Carlos Augusto de Oliveira
 

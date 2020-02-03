@@ -1,4 +1,4 @@
-# Data science Classification
+# Data Science Classification
 Machine learning
 
 Carlos Augusto de Oliveira
